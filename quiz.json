@@ -1,0 +1,163 @@
+[
+    {
+        "question": "What does 'var' keyword do in JavaScript?",
+        "answer1": "Declares a variable",
+        "answer2": "Declares a function",
+        "answer3": "Creates a constant",
+        "answer4": "Creates a class",
+        "rightAnswer": "Declares a variable"
+    },
+    {
+        "question": "Which method is used to parse a JSON string in JavaScript?",
+        "answer1": "JSON.stringify()",
+        "answer2": "JSON.parse()",
+        "answer3": "JSON.convert()",
+        "answer4": "JSON.decode()",
+        "rightAnswer": "JSON.parse()"
+    },
+    {
+        "question": "What is the output of `console.log(typeof [])`?",
+        "answer1": "array",
+        "answer2": "object",
+        "answer3": "string",
+        "answer4": "undefined",
+        "rightAnswer": "object"
+    },
+    {
+        "question": "How can you add an element to the end of an array in JavaScript?",
+        "answer1": "array.push(element)",
+        "answer2": "array.add(element)",
+        "answer3": "array.insert(element)",
+        "answer4": "array.append(element)",
+        "rightAnswer": "array.push(element)"
+    },
+    {
+        "question": "Which symbol is used for comments in JavaScript?",
+        "answer1": "//",
+        "answer2": "/* */",
+        "answer3": "#",
+        "answer4": "<!-- -->",
+        "rightAnswer": "//"
+    },
+    {
+        "question": "What does `===` operator do in JavaScript?",
+        "answer1": "Compares both value and type",
+        "answer2": "Compares value only",
+        "answer3": "Compares type only",
+        "answer4": "Compares memory address",
+        "rightAnswer": "Compares both value and type"
+    },
+    {
+        "question": "How do you create a function in JavaScript?",
+        "answer1": "function:myFunction() {}",
+        "answer2": "function myFunction() {}",
+        "answer3": "function = myFunction() {}",
+        "answer4": "function => myFunction() {}",
+        "rightAnswer": "function myFunction() {}"
+    },
+    {
+        "question": "Which built-in method removes the last element from an array?",
+        "answer1": "pop()",
+        "answer2": "push()",
+        "answer3": "remove()",
+        "answer4": "shift()",
+        "rightAnswer": "pop()"
+    },
+    {
+        "question": "What is a closure in JavaScript?",
+        "answer1": "A function that is used to close a loop",
+        "answer2": "A function having access to its own scope, the scope of the outer function, and the global scope",
+        "answer3": "A function that is called immediately after it is defined",
+        "answer4": "A function that returns another function",
+        "rightAnswer": "A function having access to its own scope, the scope of the outer function, and the global scope"
+    },
+    {
+        "question": "What is the purpose of the 'this' keyword in JavaScript?",
+        "answer1": "Refers to the previous object",
+        "answer2": "Refers to the current object",
+        "answer3": "Refers to the next object",
+        "answer4": "Refers to the global object",
+        "rightAnswer": "Refers to the current object"
+    },
+    {
+        "question": "Which method is used to add one or more elements to the beginning of an array?",
+        "answer1": "push()",
+        "answer2": "unshift()",
+        "answer3": "shift()",
+        "answer4": "concat()",
+        "rightAnswer": "unshift()"
+    },
+    {
+        "question": "What is the purpose of the 'use strict' directive in JavaScript?",
+        "answer1": "To enable debugging mode",
+        "answer2": "To enable strict mode which catches common coding mistakes and unsafe actions",
+        "answer3": "To disable JavaScript features",
+        "answer4": "To enforce variable declaration",
+        "rightAnswer": "To enable strict mode which catches common coding mistakes and unsafe actions"
+    },
+    {
+        "question": "Which function is used to serialize an object into a JSON string?",
+        "answer1": "JSON.serialize()",
+        "answer2": "JSON.parse()",
+        "answer3": "JSON.stringify()",
+        "answer4": "JSON.toString()",
+        "rightAnswer": "JSON.stringify()"
+    },
+    {
+        "question": "What will `console.log(0.1 + 0.2 === 0.3)` print?",
+        "answer1": "true",
+        "answer2": "false",
+        "answer3": "undefined",
+        "answer4": "NaN",
+        "rightAnswer": "false"
+    },
+    {
+        "question": "Which method returns the character at a specified index in a string?",
+        "answer1": "indexOf()",
+        "answer2": "getChar()",
+        "answer3": "substring()",
+        "answer4": "charAt()",
+        "rightAnswer": "charAt()"
+    },
+    {
+        "question": "Which event occurs when the user clicks on an HTML element?",
+        "answer1": "onmouseover",
+        "answer2": "onclick",
+        "answer3": "onchange",
+        "answer4": "onmouseclick",
+        "rightAnswer": "onclick"
+    },
+    {
+        "question": "How do you write an 'if' statement in JavaScript?",
+        "answer1": "if (condition) { }",
+        "answer2": "if condition { }",
+        "answer3": "if:condition { }",
+        "answer4": "if condition() { }",
+        "rightAnswer": "if (condition) { }"
+    },
+    {
+        "question": "How do you find the number with the highest value of x and y in JavaScript?",
+        "answer1": "Math.ceil(x, y)",
+        "answer2": "Math.max(x, y)",
+        "answer3": "Math.floor(x, y)",
+        "answer4": "Math.highest(x, y)",
+        "rightAnswer": "Math.max(x, y)"
+    },
+    {
+        "question": "Which company developed JavaScript?",
+        "answer1": "Microsoft",
+        "answer2": "Netscape",
+        "answer3": "Sun Microsystems",
+        "answer4": "Oracle",
+        "rightAnswer": "Netscape"
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+        "answer1": "<script href='script.js'>",
+        "answer2": "<script src='script.js'>",
+        "answer3": "<script ref='script.js'>",
+        "answer4": "<script name='script.js'>",
+        "rightAnswer": "<script src='script.js'>"
+    }
+  ]
+  
